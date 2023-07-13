@@ -1,4 +1,4 @@
-import "swiper/swiper-bundle.cjs";
+import 'swiper/swiper.min.css'
 import "./asset/boxicons-2.1.0/css/boxicons.min.css";
 import "./App.scss";
 
